@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 测试视频素材（体积大，不入库；outputs 下的字幕与文章需要保留）
+test_videos/
+*.mp4
